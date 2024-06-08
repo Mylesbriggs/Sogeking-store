@@ -1,0 +1,33 @@
+.Banner{
+  background:url('https://images.pexels.com/photos/346751/pexels-photo-346751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') ;
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  margin-top: 0px;
+  object-fit: contain;
+  color: rgb(101, 57, 3);
+}
+
+.text{
+  text-align: center;
+  font-size: 80px;
+  font-weight: 500;
+  text-shadow: 5px 5px 10px bisque;
+  margin-top: 0;
+  padding: 4vh;
+}
+.Banner_button{
+  width: fit-content;
+  margin: auto;
+  height: 20vh;
+
+}
+.blackshade{
+  height: 7.4rem;
+  background-image: linear-gradient(
+    180deg ,
+    transparent ,
+    rgba(250, 249, 247, 0.61),
+    #e1e1e1
+  );
+}

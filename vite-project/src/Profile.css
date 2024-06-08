@@ -1,0 +1,107 @@
+.usericondiv{
+  width: 100%;
+}
+.userIcon2{
+  margin-top: 15px;
+  margin-bottom: 10%;
+  background-color:bisque;
+  color:rgb(101, 57, 3)  ;
+  padding: 30px;
+  width: 105px;
+  height: 105px;
+  margin-left: 40%;
+  font-size: 50px;
+  border-radius: 50%;
+
+}
+.userslide{
+  background-color: bisque;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 2vw;
+}
+.userslide::-webkit-scrollbar{
+  display: none;
+}
+.top2{
+  margin-top: 80px;
+}
+
+
+
+
+.amnt{
+  font-size: 100px;
+}
+.line{
+  width: 50%;
+  margin: auto;
+  background-color: rgb(101, 57, 3);
+  height: 2px;
+}
+
+
+.centerseeMore{
+  width: 50%;
+  margin: auto;
+}
+.bouncingFlower{
+  width: 200px;
+  height: 200px;
+  margin-left: 40%;
+  margin-top: 5%;
+  border-radius: 50%;
+}
+
+.JugPopUps{
+  overflow: hidden;
+  border-radius: 20px;
+  background-color: bisque;
+  width: 350px;
+  height: 250px;
+  margin-left: 2%;
+}
+.jug{
+  width: 350px;
+  height: 200px;
+}
+
+.JugPopUps2{
+  overflow: hidden;
+  border-radius: 20px;
+  background-color: bisque;
+  width: 400px;
+  height: 250px;
+  margin-left: 2%;
+}
+
+
+
+.PaidPromotion{
+  overflow: hidden;
+}
+.text2{
+  font-size: 50px;
+  text-shadow: 4px 4px 8px bisque;
+}
+
+
+
+.input3{
+  width: 50%;
+  text-align: center;
+  height: 30px;
+  outline: none;
+  border: none;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.JugPopUps3{
+  
+  border-radius: 20px;
+  background-color: bisque;
+  width: 350px;
+  margin: auto;
+  margin-top: 5%;
+  
+}

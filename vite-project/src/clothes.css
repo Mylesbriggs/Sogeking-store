@@ -1,0 +1,14 @@
+.clothes_Container{
+  
+  height: 480px;
+  width: 280px;
+  background-color: rgb(255, 255, 255);
+  
+  margin: auto;
+  margin-bottom: 20px;
+  overflow:hidden;
+}
+.ClothesImg{
+  width: 200px;
+  place-items: center;
+}

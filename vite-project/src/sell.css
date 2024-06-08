@@ -1,0 +1,15 @@
+.sell{
+  margin-top: 10%;
+  background-color: bisque;
+  width: 50%;
+  border-radius: 20px;
+  
+}
+.input3{
+  width: 100%;
+  text-align: center;
+  height: 40px;
+  outline: none;
+  border: none;
+  margin-bottom: 20px;
+}

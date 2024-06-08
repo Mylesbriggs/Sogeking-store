@@ -1,0 +1,33 @@
+
+.class_Container{
+  width: 328px;
+  height: 450px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.Content{
+  width: fit-content;
+  margin: auto;
+  
+}
+.dis{
+  display: inline-block;
+}
+.blue{
+  margin-top: 50px;
+  color: rgb(0, 140, 255);
+}
+.top{
+  margin-top: 30px;
+}
+.fourpcs{
+  width: 149px;
+  margin-left: 3px;
+}
+.bigImg{
+  width: 280px;
+  margin-left: 15px;
+}
+
+

@@ -1,0 +1,213 @@
+.img_nav{
+  width: 40px;
+}
+
+.input_navbar{
+  width: 50%;
+  font-size: 15px;
+  height: 40px;
+  outline: none;
+  border: none;
+}
+.dis2{
+  cursor: pointer;
+}
+.dis{
+  cursor: pointer;
+  display: inline-block;
+}
+.dis3{
+  cursor: pointer;
+  display: inline-block;
+}
+button{
+  padding: 0.7vh;
+  font-size: 20px;
+  background-color: bisque;
+  border: none;
+  transition: 0.2s;
+  cursor: pointer;
+  border-radius: 10px;
+
+}
+button:hover{
+  background-color: rgb(101, 57, 3);
+  color: bisque;
+  box-shadow:5px 5px 10px bisque;
+  border: 20px;
+}
+.search_button{
+  width: 50px;
+ 
+ 
+  border: none;
+  transition: 0.2s;
+  cursor: pointer;
+  background-color: snow;
+  padding: 0;
+  height: 40px;
+  transition: 0.2s;
+   
+  
+
+}
+.search_button:hover{
+  background-color: snow;
+}
+.search_icon{
+  width: 20px;
+
+}
+.Logo{
+  background: url('https://th.bing.com/th/id/R.1b631d5e3f12e6820e3c14e220e453ba?rik=IZz318pwwqQ1sg&riu=http%3a%2f%2fwww.onlygfx.com%2fwp-content%2fuploads%2f2017%2f12%2ffake-stamp-3.png&ehk=S2ON7yUGURpxwvsC530SHEk2%2fBzpuLSrfGOxmqBZ0v4%3d&risl=&pid=ImgRaw&r=0')no-repeat ;
+  background-size: cover;
+  height: 40px;
+  width: 40px;
+  background-position: center center;
+  object-fit: contain;
+}
+.Nav_bar{
+  background-color: blanchedalmond;
+}
+.NavbarMobile{
+  background-color: blanchedalmond;
+}
+.userIcon{
+  background-color:rgb(101, 57, 3) ;
+  color: bisque;
+  padding: 10px;
+  border-radius: 50%;
+  transition: 0.2s;
+}
+.userIcon:hover{
+  background-color: bisque;
+  color:rgb(101, 57, 3) ;
+}
+
+
+.cartIcon{
+  background-color:rgb(101, 57, 3) ;
+  color: bisque;
+  padding: 10px;
+  border-radius: 50%;
+  transition: 0.2s;
+  margin-left: 10px;
+}
+.cartIcon:hover{
+  background-color: bisque;
+  color:rgb(101, 57, 3) ;
+}
+
+.menuIcon{
+  background-color:rgb(101, 57, 3) ;
+  color: bisque;
+  padding: 10px;
+  border-radius: 50%;
+  transition: 0.2s;
+
+}
+.menuIcon:hover{
+  background-color: bisque;
+  color:rgb(101, 57, 3) ;
+}
+.cartIconMobile{
+  background-color:rgb(101, 57, 3) ;
+  color: bisque;
+  padding: 10px;
+  border-radius: 50%;
+  transition: 0.2s;
+  
+}
+.cartIconMobile:hover{
+  background-color: bisque;
+  color:rgb(101, 57, 3) ;
+}
+
+.marginLeft{
+  margin-left: 10%;
+}
+.marginLeft2{
+  margin-left: 5%;
+}
+.navvi{
+  display: none;
+}
+
+
+
+
+.navbar {
+  background-color: bisque;
+  padding: 10px;
+}
+
+.navbar-container {
+  display:block;
+  justify-content: space-between;
+}
+
+.menu-toggle-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-size: 24px;
+}
+
+.nav-menu {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+.nav-menu.open {
+  display: block;
+}
+
+.nav-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-menu ul li {
+  padding: 10px;
+}
+
+.nav-menu ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-menu ul li a:hover {
+  text-decoration: underline;
+}
+ 
+
+
+
+
+@media screen and (max-width:580px){
+  .Nav_bar{
+    display: none;
+  }
+  
+
+
+}
+
+
+@media screen and (min-width:580px){
+  .navbar{
+    display: none;
+  }
+}
+
+
+
+
+/*test css*/
+
+
