@@ -7,7 +7,7 @@ function truncate(string, n){
 }
 
 
-function ClothesCathelog() {
+function PhoneCathelog() {
   return <div className='top'>
               <div className="container">
                 <div className="row">
@@ -20,11 +20,10 @@ function ClothesCathelog() {
                       <h3 id='clothesnameid'>Name</h3>
                     </div>
                     <div className="CLothesNar">
-                      <p><strong>{truncate("a white T-shirt for good jsjdfjiofioidoiwoneoiijwoieoiw owoww hwoowoirirsrgw pwojepwepp", 80)}</strong></p>
+                      <p><strong>{truncate("", 80)}</strong></p>
                     </div>
-                    <div className="ClothesPrice ">
-                      <h1 className='dis'>$0.00</h1>
-                      <a href="http://localhost:5173/purchase"><button >Purchase</button></a>
+                    <div className="ClothesPrice">
+                      <h1>$0.00</h1>
                     </div>
                   </div>
                   </div>
@@ -142,7 +141,7 @@ function ClothesCathelog() {
                       <p><strong>{truncate("muijndicnbwiuebchbwuebcuhbweicb jnweieni wienciunwec wiefniwnef wienfouwnef wienowne  wiencin  woeninenfin2ef inwe i ec owe e edij efi ij i edij eijd wie", 80)}</strong></p>
                     </div>
                     <div className="ClothesPrice">
-                      <h1>$0.00</h1>0
+                      <h1>$0.00</h1>
                     </div>
                   </div>
                   </div>
@@ -153,4 +152,4 @@ function ClothesCathelog() {
   
 }
 
-export default ClothesCathelog
+export default PhoneCathelog

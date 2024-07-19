@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import NavbarMobile from './Codes/NavbarMobile';
-import NavbarPc from './Codes/NavbarPc';
-import "./Profile.css"
+import NavbarMobile from './NavbarMobile';
+import NavbarPc from './NavbarPc';
+import "../Profile.css"
 
 const PayForm = () => {
   const [cardNumber, setCardNumber] = useState('');

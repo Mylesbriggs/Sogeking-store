@@ -1,0 +1,26 @@
+.purchase{
+  background-color: rgb(255, 255, 255);
+  width: 60%;
+  box-shadow: 5px 5px 15px rgb(175, 180, 185);
+  overflow: hidden;
+
+
+}
+.ClothesImg2{
+  width: 100%;
+  place-items: center;
+}
+.Buynow{
+  float: right;
+}
+.top3{
+  margin-top: 50%;
+}
+.text2{
+  text-align: center;
+  font-size: 60px;
+  font-weight: 500;
+  text-shadow: 5px 5px 10px bisque;
+  margin-top: 0;
+  padding: 4vh;
+}

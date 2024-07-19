@@ -16,8 +16,10 @@ function Clothes() {
       
       <NavbarPc/>
       <NavbarMobile/>
-      <h1 className="text-center">Dress to impress</h1>
-      <ClothesCathelog/>
+      <div className='DressToImpress top2'>
+       <h1 className="text-center  textDress">Dress to impress</h1>
+      </div>
+      < ClothesCathelog/>
       <Section/>
       
       

@@ -12,3 +12,88 @@
   width: 200px;
   place-items: center;
 }
+.DressToImpress{
+  background-image: url('https://livetteswallpaper.com/cdn/shop/files/Bold-african-fabric-print-wallpaper_1100x.jpg?v=1698587248');
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  object-fit: contain;
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 10px;
+  padding: 90px;
+  
+}
+.textDress{
+  background-color: rgba(0, 0, 0, 0.116);
+  color: snow;
+  font-weight: 600;
+}
+
+.gamesbanner{
+  background-image: url('https://i.pinimg.com/564x/43/cc/86/43cc862e2268f1e99c05267a98e8ea50.jpg');
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  object-fit: contain;
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 10px;
+  padding: 90px;
+}
+.PcAndAccessories{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8sle1ynpt2cbwzFnz4goivXo27hH_lJtpiCr1G3tkIpmjjv5Jdb7ebDU94ojNsqjPjA&usqp=CAU');
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  object-fit: contain;
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 10px;
+  padding: 90px;
+}
+.Homedecor{
+  background-image: url('https://e0.pxfuel.com/wallpapers/402/345/desktop-wallpaper-flower-pot-pot-plant.jpg');
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  object-fit: contain;
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 10px;
+  padding: 90px;
+}
+.PhoneAcc{
+  background-image: url('https://c0.wallpaperflare.com/preview/817/274/534/mobile-phone-cell-phone-camera-camera-photograph.jpg');
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  object-fit: contain;
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 10px;
+  padding: 90px;
+}
+.CarAcc{
+  background-image: url('https://i.pinimg.com/originals/0b/5b/d2/0b5bd24ca23fe98cba64fc1cf0f8679f.jpg');
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  object-fit: contain;
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 10px;
+  padding: 90px;
+}

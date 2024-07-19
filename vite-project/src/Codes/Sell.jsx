@@ -47,7 +47,7 @@ const SellerUploadPage = () => {
       <h1 className="text-center">Welcome to 市場 start selling for free now</h1>
       <div className=" container sell">
         <div className="row">
-          <div className="col-md-6">
+          <div className="col-md-6 col-sm-0">
           <h1>Create your page</h1>
       <form onSubmit={handleSubmit}>
         <label>
@@ -77,7 +77,7 @@ const SellerUploadPage = () => {
         <button type="submit">Upload Item</button>
       </form>
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6 col-sm-12">
             <h4>Create your page and start selling on 市場it is completely free </h4>
             <div className='top'></div>
             <h4>You can contact us directly on <a href="mailto:mylezriggz@gmail.com"><i class="fa-solid fa-envelope"></i></a>for any confusion and questions you may have</h4>

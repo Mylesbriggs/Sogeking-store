@@ -1,10 +1,9 @@
 import React from 'react'
-import NavbarPc from './Codes/NavbarPc';
-import NavbarMobile from './Codes/NavbarMobile';
-import PcProfile from './Codes/PcProfile';
-import ProfileMobile from './Codes/ProfileMobile';
-
-import './Profile.css'
+import NavbarPc from './NavbarPc';
+import NavbarMobile from './NavbarMobile';
+import ProfileMobile from './ProfileMobile';
+import PcProfile from './PcProfile';
+import '../Profile.css'
 
 
 function truncate(string, n){
@@ -26,12 +25,12 @@ function Profile() {
 
         <div className="col-lg-10 col-md-9 col-sm-9">
           <div className="usericondiv">
-           <i class="fa-solid fa-user userIcon2"></i>
+           <i className="fa-solid fa-user userIcon2"></i>
           </div>
           
           <div className="container">
           <div className="row">
-                  <div className="col-lg-6    col-md-6 ">
+                  <div className="col-lg-6    col-md-0 ">
                   <div className="clothes_Container ">
                     <div >
                       <img className="ClothesImg" src="https://m.media-amazon.com/images/I/31x363D-d1L._AC_SR400,600_.jpg" alt="" />
@@ -49,7 +48,7 @@ function Profile() {
                   </div>
 
 
-                  <div className="col-lg-6  col-md-6">
+                  <div className="col-lg-6  col-md-0">
                   <div className="clothes_Container ">
                     <div >
                       <img className="ClothesImg" src="https://m.media-amazon.com/images/I/31x363D-d1L._AC_SR400,600_.jpg" alt="" />

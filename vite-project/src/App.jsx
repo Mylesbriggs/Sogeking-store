@@ -4,13 +4,19 @@ import { BrowserRouter , Routes, Route } from 'react-router-dom'
 import HomePage from './Codes/HomePage'
 import ConfirmPassword from './Codes/Signup'
 import Signin from './Codes/Signin'
-import Profile from './Profle'
+import Profile from './Codes/Profle'
 import SellerUploadPage from './Codes/Sell'
 import Clothes from './Codes/Clothes'
 import Balance from './Codes/Balance'
 import PaidPromotion from './Codes/PaidPromotion'
-import PayForm from './PayForm'
-
+import PayForm from './Codes/PayForm'
+import GamesConsole from './Codes/GamesConsole'
+import Laptops from './Codes/Laptops'
+import HomeDecor from './Codes/HomeDecor'
+import Phone from './Codes/Phone'
+import Car from './Codes/Car'
+import Report from './Codes/Report'
+import Purchase from './Purchase'
 
 import './App.css'
 
@@ -30,10 +36,18 @@ function App() {
           <Route path="/balance" element={<Balance/>}/>
           <Route path="/paidpromotion" element={<PaidPromotion/>}/>
           <Route path="/payment" element={<PayForm/>}/>
+          <Route path="/games" element={<GamesConsole/>}/>
+          <Route path="/laptops" element={<Laptops/>}/>
+          <Route path="/homedecoration" element={<HomeDecor/>}/>
+          <Route path="/phone" element={<Phone/>}/>
+          <Route path="/car" element={<Car/>}/>
+          <Route path="/report" element={<Report/>}/>
+          <Route path="/purchase" element={<Purchase/>}/>
+
         </Routes>
       </BrowserRouter>
     </div>
   )
 }
 
-export default App
+export default App;
