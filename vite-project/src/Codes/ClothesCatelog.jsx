@@ -24,7 +24,7 @@ function ClothesCathelog() {
                     </div>
                     <div className="ClothesPrice ">
                       <h1 className='dis'>$0.00</h1>
-                      <a href="http://localhost:5173/purchase"><button >Purchase</button></a>
+                      <a href="http://localhost:5173/purchase"><button  >Purchase</button></a>
                     </div>
                   </div>
                   </div>
